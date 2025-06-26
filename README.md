@@ -8,3 +8,6 @@
 - supprimer le debut du script et copier coller en entier le miens
 
 - Puis activer le script 
+
+
+Attention il y aura toujours la premiere Pub de la premiere video de la page que vous lancer, F5 la page pour ne plusa avoir de pub ! 
